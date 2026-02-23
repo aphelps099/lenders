@@ -1,0 +1,5 @@
+{
+  "name": "NorCal SBDC Lender Referral Database",
+  "description": "A searchable, filterable database of lenders for the NorCal SBDC.",
+  "requestFramePermissions": []
+}
